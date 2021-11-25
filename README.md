@@ -11,4 +11,5 @@ This is an image extractor engine which was made using the help of this [medium]
 - matplotlib
 
 ## Dataset used 
-For this model this [flipkart](https://www.kaggle.com/PromptCloudHQ/flipkart-products)
+For this model this [flipkart](https://www.kaggle.com/PromptCloudHQ/flipkart-products) dataset was used.
+
